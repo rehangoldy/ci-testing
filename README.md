@@ -1,3 +1,3 @@
 # This React Jenkins testing
 testing continous intregration
-ini tambahan
+ini tambahan dari dev goldy
